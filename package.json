@@ -1,0 +1,22 @@
+{
+  "name": "unlp",
+  "version": "1.0.0",
+  "description": "UNLP warper-system",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matias-pierobon/unlp.git"
+  },
+  "keywords": [
+    "unlp"
+  ],
+  "author": "Matias Pierobon <matias.pierobonm@gmail.com> (https://matias-pierobon.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matias-pierobon/unlp/issues"
+  },
+  "homepage": "https://github.com/matias-pierobon/unlp#readme"
+}

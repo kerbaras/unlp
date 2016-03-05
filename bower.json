@@ -1,0 +1,22 @@
+{
+  "name": "unlp",
+  "description": "UNLP warper-system",
+  "main": "server/app.js",
+  "authors": [
+    "Matias Pierobon <matias.pierobonm@gmail.com> (https://matias-pierobon.github.io/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "unlp"
+  ],
+  "homepage": "https://github.com/matias-pierobon/unlp",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
